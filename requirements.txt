@@ -1,0 +1,6 @@
+requests
+sacremoses
+fastBPE
+subword-nmt
+flask
+flask_cors

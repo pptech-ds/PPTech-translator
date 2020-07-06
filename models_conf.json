@@ -1,0 +1,8 @@
+{
+    "en2fr_fconv_wmt14": "https://PPTECH.s3.eu-west-3.amazonaws.com/wmt14.v2.en-fr.fconv-py.tar.bz2",
+    "fr2en_fconv_wmt14": "https://PPTECH.s3.eu-west-3.amazonaws.com/wmt14.fr-en.fconv.tar.bz2",
+    "fr2en_transformer_wmt14": "https://PPTECH.s3.eu-west-3.amazonaws.com/wmt14.fr_en.transformer_20200109_12h15.tar.bz2",
+    "en2fr_transformer_wmt14": "https://PPTECH.s3.eu-west-3.amazonaws.com/wmt14.en-fr.joined-dict.transformer.tar.bz2",
+    "en2de_transformer_wmt19": "https://PPTECH.s3.eu-west-3.amazonaws.com/wmt19.en-de.joined-dict.ensemble.tar.gz",
+    "de2en_transformer_wmt19": "https://PPTECH.s3.eu-west-3.amazonaws.com/wmt19.de-en.joined-dict.ensemble.tar.gz"
+}
